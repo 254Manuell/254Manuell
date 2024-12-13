@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ngunnzi</h1>
-<h3 align="center">A passionate data analyst and budding software developer from Kenya</h3>
+<h3 align="center">A proactive data analyst and budding software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=254manuell&label=Profile%20views&color=0e75b6&style=flat" alt="254manuell" /> </p>
 
@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuel ngunnzi" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel ngunnzi?logo=twitter&style=for-the-badge" alt="emmanuel ngunnzi" /></a> </p>
 
-- 🔭 I’m currently working on **ClimaAct climate action system**
+- 🔭 I’m currently working on **ClimaAct climate action system and EnviroGPT**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Blockchain**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📝 I regularly write articles on [Medium.com](Medium.com)
 
-- 💬 Ask me about **Python**
+- 📫 How to reach me **ngunnzie@gmail.com**
 
-- 📫 How to reach me **engunnzi62194@anu.ac.ke**
-
-- ⚡ Fun fact **I am highly ambitious!**
+- ⚡ Fun fact **I'm a real stand up guy!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
