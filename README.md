@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ngunnzi</h1>
-<h3 align="center">A proactive data analyst and budding software developer from Kenya</h3>
+<h3 align="center">A proactive Data Analyst and budding Software Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=254manuell&label=Profile%20views&color=0e75b6&style=flat" alt="254manuell" /> </p>
 
